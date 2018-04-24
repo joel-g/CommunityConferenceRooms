@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Goose Pub & Eatery",
+    "meals": [ "lunch", "drinks" ],
+    "categories": [ "Bar" ],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": true,
+    "distance_to_42": 3.0,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/the-goose-pub-n-eatery-bellevue"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/DLS1sRhM1tq"
+      }
+    }
+  },
+  {
+    "name": "Boardwalk",
+    "meals": [ "lunch", "dinner", "drinks" ],
+    "categories": [ "On Campus" ],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": false,
+    "distance_to_42": 0.9,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/boardwalk-redmond"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/SMEo8PCjxNJ2"
+      }
+    }
+  },
+  {
+    "name": "Tipsy Cow",
+    "meals": [ "lunch", "dinner", "drinks" ],
+    "categories": [ "Burgers" ],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": false,
+    "distance_to_42": 3.5,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/tipsy-cow-burger-bar-redmond-2"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/8agRu1Uus6C2"
+      }
+    }
+  },
+  {
+    "name": "The Lime",
+    "meals": [ "lunch", "dinner", "drinks" ],
+    "categories": [ "Pool", "Karaoke" ],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": true,
+    "distance_to_42": 4.8,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/the-lime-kirkland"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/ZGHXAh8Fdc42"
+      }
+    }
+  },
+  {
+    "name": "WXYZ Lounge",
+    "meals": [ "dinner", "drinks" ],
+    "categories": [ "Couches", "Fancy" ],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": false,
+    "distance_to_42": 0.4,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/w-xyz-bar-redmond"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/oXjLN4bj4742"
+      }
+    }
+  },
+  {
+    "name": "The Matador",
+    "meals": [ "dinner", "lunch", "drinks" ],
+    "categories": [ "Mexican", "Tequila" ],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": false,
+    "distance_to_42": 3.4,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/the-matador-redmond"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/sF7QyoPyYTm"
+      }
+    }
+  },
+  {
+    "name": "Daman's Tavern",
+    "meals": [ "dinner", "lunch", "drinks" ],
+    "categories": [ "Sports Bar", "Tequila" ],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": true,
+    "distance_to_42": 0.9,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/damans-bar-and-grill-redmond-2"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/GJSBqAS4ABJ2"
+      }
+    }
+  }  
+]
