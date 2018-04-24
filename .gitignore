@@ -1,5 +1,5 @@
-WebApp-OpenIDConnect-DotNet/Web.config
-.vs/WebApp-OpenIDConnect-DotNet/v15/Server/sqlite3/db.lock
+ComCor/Web.config
+.vs/ComCor/v15/Server/sqlite3/db.lock
 
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 [Bb]in/
