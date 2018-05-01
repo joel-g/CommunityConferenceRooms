@@ -138,5 +138,25 @@
         "url": "https://goo.gl/maps/GJSBqAS4ABJ2"
       }
     }
+  },
+  {
+    "name": "Off the Rails Sports Pub",
+    "meals": [ "dinner", "lunch", "drinks" ],
+    "categories": [ "Sports Bar", "Games" ],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "games": true,
+    "distance_to_42": 2.1,
+    "links": {
+      "yelp": {
+        "label": "Yelp",
+        "url": "https://www.yelp.com/biz/off-the-rails-sports-pub-bellevue"
+      },
+      "google_maps": {
+        "label": "Google Maps",
+        "url": "https://goo.gl/maps/JjAFrkMVc6o"
+      }
+    }
   }  
 ]
